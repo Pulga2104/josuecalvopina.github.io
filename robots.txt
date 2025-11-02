@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://josuecalvopina.github.io/sitemap.xml
+Sitemap: https://pulga2104.github.io/josuecalvopina.github.io/sitemap.xml
