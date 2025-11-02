@@ -23,14 +23,14 @@ footer_text: >
 
 keywords: josue calvopiña, epn, portafolio académico, ingeniería, al-folio
 lang: es
-icon: 🧠 # icono favicon
+icon: /assets/img/favicon.png # icono favicon
 
 # Cuando lo subas a GitHub Pages, cambia esto:
 # url: "https://josuecalvopina.github.io"
 # baseurl: ""
 
-url: https://pulga2104.github.io
-baseurl: /josuecalvopina.github.io
+url: "https://josuecalvopina.github.io"
+baseurl: ""
 
 last_updated: false
 back_to_top: true
@@ -275,8 +275,9 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Calvopiña Machuca]
+  first_name: [Josue, J.]
+
 
   style: apa
   locale: en
