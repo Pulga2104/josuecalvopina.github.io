@@ -28,9 +28,9 @@ icon: 🧠 # icono favicon
 # Cuando lo subas a GitHub Pages, cambia esto:
 # url: "https://josuecalvopina.github.io"
 # baseurl: ""
-url: "https://josuecalvopina.github.io"
-baseurl: ""
 
+url: https://pulga2104.github.io
+baseurl: /josuecalvopina.github.io
 
 last_updated: false
 back_to_top: true
